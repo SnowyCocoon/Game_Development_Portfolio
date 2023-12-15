@@ -21,9 +21,13 @@ Legend for symbols:
 Projects that I've finished in my current job. I've programed and designed almost all of them, from start to finish. This is how Knoocker works, where single developer work with a graphic designer, have to create final product from the idea, to relesed game. Every game is created for our own hardware: Knowla Box and Knowla Wall.
 
 ## 1. Room Sorter ( :construction_worker:, :computer: )
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_1_SS.png) 
 ## 2. English Alphabet ( :construction_worker:, :computer: )
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_2_SS.png) 
 ## 3. Jumper (Normal and English version) ( :construction_worker:, :computer:, :game_die: )
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_3_SS.png) 
 ## 4. Jellyfish ( :construction_worker:, :computer: )
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_4_SS.png) 
 ## 5. Labirynth ( :construction_worker:, :computer:, :game_die: )
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_5_SS.png) 
 ## 6. Letter Search ( :construction_worker:, :computer:, :game_die: )
