@@ -19,7 +19,7 @@ Legend for symbols:
 - :necktie: - Team Management
 - :poultry_leg: - Rigging and Bone Animations
 
-# 1. Work Related Projects, Part 1. [Knoocker/Knowla](https://knowla.eu/en/)
+# 1. Work Related Projects, Part 1. [Knoocker/Knowla ( :dancers: Team, :construction_worker: Solo, :computer: Code, :pencil2: Art, :game_die: Design, :poultry_leg: Rig/Anim)](https://knowla.eu/en/)
 Projects that I've finished in my current job. I've programed and designed almost all of them, from start to finish. This is how Knoocker works, where single developer works with a graphic designer, and have to create final product from the idea, to relesed game. Every game is created for our own hardware: Knowla Box and Knowla Wall.
 
 ## Check all the games right here [**CLICK**](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Knowla.md)
@@ -40,7 +40,7 @@ Projects that I've finished in my current job. I've programed and designed almos
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_2_SS.png) 
 # 1. Work Related Projects, Part 3, [Microtaur ( :dancers: Team, :computer: Code, :pencil2: Art, :game_die: Design)](https://microtaur.com)
-**Description:** Together with my dear friends Krzysztof Tomala and Wojciech Sosnowski, we've created our own self called studio: Microtaur. We created a few games together, and we've created a few MVP-s for different companies like: **Kinguin** or **JaRock**. Right now we're creating another MVP/Demo for a new client conected to streaming industry.
+**Description:** Together with my dear friends Krzysztof Tomala and Wojciech Sosnowski, we've founded our own self called studio: Microtaur. We created a few games together, and we've created a few MVP-s for different companies like: **Kinguin** or **JaRock**. Right now we're creating another MVP/Demo for a new client conected to streaming industry.
 
 **Tech Stack:** Godot, GDScript, Roblox, Blender, Aseprite, Unity, C#
 
