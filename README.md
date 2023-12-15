@@ -60,7 +60,7 @@ Is it possible to create a game without any writing and artistic skills, or even
 
 # 3. Game Jams Related Projects
 
-## 0. [Foodie Finds Love (Gamedev :video_game:, :dancers:, :computer:)](https://adriannowak97.itch.io/foodie-finds-love)
+## 0. [Pagan Runer (:video_game:, :dancers:, :computer:)](https://adriannowak97.itch.io/foodie-finds-love)
 
 ## 1. [Pagan Runer (Tags: :dancers:, :computer:)](https://gamejolt.com/games/pagan_runner/732468)
 **Description:** Game created for the United With Ukraine Game Jam. Epic adventure 3D platform game/Endless Runner in which you're a Slavic ruler that takes responsibility for his domain and his people.
