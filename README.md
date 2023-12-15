@@ -25,7 +25,7 @@ Projects that I've finished in my current job. I've programed and designed almos
 **Tech Stack:** Unity, Blender, Aseprite, C#
 
 ## 1. [Room Sorter ( :construction_worker: Solo, :computer: Code)](https://knowla.eu/en/applications/)
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_1_SS.png) 
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_1_1_SS.png) 
 ## 2. [English Alphabet ( :construction_worker: Solo, :computer: Code)](https://knowla.eu/en/applications/)
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_2_SS.png) 
 ## 3. [Jumper (Normal and English version) ( :construction_worker: Solo, :computer: Code, :game_die: Design)](https://knowla.eu/en/planety/planet-hopsa/)
