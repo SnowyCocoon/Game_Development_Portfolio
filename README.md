@@ -1,7 +1,9 @@
 # Game Development Portfolio (Dominik Strzałko)
 
-Hi, my name is Dominik aka. Kokon, and this is my project portfolio. I've divided it to 4 main categories:
-- Work related projets
+Hi, my name is Dominik aka. Kokon, and this is my project portfolio. 
+
+I've divided it to 4 main categories:
+- Work related projets (3 Parts)
 - Science related projects
 - GameJams related projects
 - Everything else
@@ -27,6 +29,10 @@ Projects that I've finished in my current job. I've programed and designed almos
 **Description:** My first gamedev related job/internship. I've worked on a project for "Enea Operator" a Polish power industry company. Our team created a VR simulation, where technicians from the ENEA, could train their skills.
 **My duties:** 3D modeling and optimizing models for VR, Programming fixes, Testing the VR Software, Helping managing the semantic web database in excel.
 **Tech Stack:** Unity, 3DS Max, Microsoft Excel, Oculus Rift, HTC Vive
+
+# 1. Work Related Projects, Part 3, Microtaur
+**Description:** Together with my dear friends Krzysztof Tomala and Wojciech Sosnowski, we've created our own self called studio: Microtaur. We created a few games together, and we've created a few MVP-s for different companies like: Kinguin or JaRock. Right now we're creating another MVP for a new client conected to streaming industry.
+**Tech Stack:** Godot, GDScript, Roblox, Blender, Aseprite, Unity, C#
 
 # 2. Science Related Projects
 
@@ -61,12 +67,38 @@ Is it possible to create a game without any writing and artistic skills, or even
 **Description:** 
 **Tech stack:** Unity, Aseprite, C#
 
-# 4. Other Projects
+# 4. Other Projects, and small demos
 
-## 1. PBJ
-## 2. Hordeum
-## 3. Onryo
-## 4. Sliding Cars
-## 5. Sneaker Rotate
+## 1. [Peanut Butter Invasion ()](https://snowycocoon.itch.io/peanut-butter-invasion)
+**Description:** A small project that I've created as a fan work for Vtuber [Froot](https://twitter.com/LichVtuber/status/1341801963202244608). Small shmap game. I've created 95% of the art assets.
+
+**Tech stack:** Aseprite, Godot, GDscript
+
+![image](https://github.com/SnowyCocoon/Data_Science_Portfolio/blob/master/NLP/11.%20Perfumex/perfumex_screen.png)
+## 2. [Hordeum](https://snowycocoon.itch.io/hordeum)
+**Description:** Game created for our engineering thesis at the university of Adam Mickiewicz in Poznań.
+
+**Tech stack:** Unity, Gimp, C#, Aseprite
+
+![image](https://github.com/SnowyCocoon/Data_Science_Portfolio/blob/master/NLP/11.%20Perfumex/perfumex_screen.png)
+## 3. [Onryo](https://snowycocoon.itch.io/onryou-pit)
+**Description:**  Small platformer where you need to go lower, and lower, to reach the end. I've also created all all the art assets for this game.
+
+**Tech stack:** Unity, Aseprite, C#
+
+![image](https://github.com/SnowyCocoon/Data_Science_Portfolio/blob/master/NLP/11.%20Perfumex/perfumex_screen.png)
+## 4. [Sliding Cars](https://snowycocoon.itch.io/slidingcars)
+**Description:**  Basic puzzle game with some stolen arts and photos from google.
+
+**Tech stack:** Unity, C#
+
+![image](https://github.com/SnowyCocoon/Data_Science_Portfolio/blob/master/NLP/11.%20Perfumex/perfumex_screen.png)
+## 5. [Sneaker Rotate](https://snowycocoon.itch.io/sneaker-rotate)
+**Description:** Basic puzzle game with some stolen arts and photos from google.
+
+**Tech stack:** Unity, C#
+
+![image](https://github.com/SnowyCocoon/Data_Science_Portfolio/blob/master/NLP/11.%20Perfumex/perfumex_screen.png)
+
 
 # 5. I've also have some interesting projects here: [Data Science Portfolio](github.com/SnowyCocoon/Data_Science_Portfolio)
