@@ -74,31 +74,31 @@ Is it possible to create a game without any writing and artistic skills, or even
 
 **Tech stack:** Aseprite, Godot, GDscript
 
-![image](https://github.com/SnowyCocoon/Data_Science_Portfolio/blob/master/NLP/11.%20Perfumex/perfumex_screen.png)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_1_SS.png)
 ## 2. [Hordeum](https://snowycocoon.itch.io/hordeum)
 **Description:** Game created for our engineering thesis at the university of Adam Mickiewicz in Poznań.
 
 **Tech stack:** Unity, Gimp, C#, Aseprite
 
-![image](https://github.com/SnowyCocoon/Data_Science_Portfolio/blob/master/NLP/11.%20Perfumex/perfumex_screen.png)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_2_SS.png)
 ## 3. [Onryo](https://snowycocoon.itch.io/onryou-pit)
 **Description:**  Small platformer where you need to go lower, and lower, to reach the end. I've also created all all the art assets for this game.
 
 **Tech stack:** Unity, Aseprite, C#
 
-![image](https://github.com/SnowyCocoon/Data_Science_Portfolio/blob/master/NLP/11.%20Perfumex/perfumex_screen.png)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_3_SS.png)
 ## 4. [Sliding Cars](https://snowycocoon.itch.io/slidingcars)
 **Description:**  Basic puzzle game with some stolen arts and photos from google.
 
 **Tech stack:** Unity, C#
 
-![image](https://github.com/SnowyCocoon/Data_Science_Portfolio/blob/master/NLP/11.%20Perfumex/perfumex_screen.png)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_4_SS.png)
 ## 5. [Sneaker Rotate](https://snowycocoon.itch.io/sneaker-rotate)
 **Description:** Basic puzzle game with some stolen arts and photos from google.
 
 **Tech stack:** Unity, C#
 
-![image](https://github.com/SnowyCocoon/Data_Science_Portfolio/blob/master/NLP/11.%20Perfumex/perfumex_screen.png)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_5_SS.png)
 
 
 # 5. I've also have some interesting projects here: [Data Science Portfolio](github.com/SnowyCocoon/Data_Science_Portfolio)
