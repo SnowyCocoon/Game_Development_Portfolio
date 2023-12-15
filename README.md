@@ -20,36 +20,16 @@ Legend for symbols:
 - :poultry_leg: - Rigging and Bone Animations
 
 # 1. Work Related Projects, Part 1. [Knoocker/Knowla](https://knowla.eu/en/)
-Projects that I've finished in my current job. I've programed and designed almost all of them, from start to finish. This is how Knoocker works, where single developer work with a graphic designer, have to create final product from the idea, to relesed game. Every game is created for our own hardware: Knowla Box and Knowla Wall.
+Projects that I've finished in my current job. I've programed and designed almost all of them, from start to finish. This is how Knoocker works, where single developer works with a graphic designer, and have to create final product from the idea, to relesed game. Every game is created for our own hardware: Knowla Box and Knowla Wall.
+
+## Check all the games right here [**CLICK**](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Knowla.md)
 
 **Tech Stack:** Unity, Blender, Aseprite, C#
 
-## 1. [Room Sorter ( :construction_worker: Solo, :computer: Code)](https://knowla.eu/en/applications/)
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_1_1_SS.png) 
-## 2. [English Alphabet ( :construction_worker: Solo, :computer: Code)](https://knowla.eu/en/applications/)
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_2_SS.png) 
-## 3. [Jumper (Normal and English version) ( :construction_worker: Solo, :computer: Code, :game_die: Design)](https://knowla.eu/en/planety/planet-hopsa/)
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_3_SS.png) 
-## 4. [Jellyfish ( :construction_worker: Solo, :computer: Code)](https://knowla.eu/en/planety/planet-contrast/)
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_4_SS.png) 
-## 5. [Labirynth ( :construction_worker: Solo, :computer: Code, :game_die: Design, :pencil2: Art)](https://knowla.eu/en/planety/planet-m/)
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_5_SS.png) 
-## 6. [Letter Search ( :construction_worker: Solo, :computer: Code, :game_die: Design)](https://knowla.eu/en/planety/planet-m/)
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_6_SS.png) 
-## 7. [Space Travel ( :construction_worker: Solo, :computer: Code)](https://knowla.eu/en/planety/planet-smart/)
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_7_SS.png) 
-## 8. [Shape Selection ( :construction_worker: Solo, :computer: Code, :game_die: Design)](https://knowla.eu/en/planety/planet-hopsa/)
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_8_SS.png) 
-## 9. [Twister ( :construction_worker: Solo, :computer: Code)](https://knowla.eu/en/planety/planet-spe/)
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_9_SS.png) 
-## 10. [Catcher ( :construction_worker: Solo, :computer: Code, :game_die: Design)](https://knowla.eu/en/planety/planet-hopsa/)
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_10_SS.png) 
-## 11. [Ziuu ( :construction_worker: Solo, :computer: Code, :poultry_leg: Rig/Anim)](https://knowla.eu/en/planety/planeta-ziuu/) 
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_11_SS.png) 
-## 12. [PI ( :dancers: Team, :poultry_leg: Rig/Anim)](https://knowla.eu/en/planety/planeta-pi/)
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_12_SS.png) 
-## 13. Voice Controlled games ( :speech_balloon: NLP, :construction_worker: Solo, :computer: Code)
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_13_SS.png)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_1_3_SS.png) 
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_1_8_SS.png) 
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_1_11_SS.png) 
 
 # 1. Work Related Projects, Part 2. [Poznan University of Economics And Business - VR Lab ( :globe_with_meridians: VR, :dancers: Team, :computer: Code, :pencil2: Art)](https://www.youtube.com/watch?v=vJiNcZhQeQE)
 **Description:** My first gamedev related job/internship. I've worked on a project for "Enea Operator" a Polish power industry company. Our team created a VR simulation, where technicians from the ENEA, could train their skills.
