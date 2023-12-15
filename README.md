@@ -17,28 +17,28 @@ Legend for symbols:
 - :necktie: - Team Management
 - :poultry_leg: - Rigging and Bone Animations
 
-# 1. Work Related Projects, Part 1. Knoocker/Knowla
+# 1. Work Related Projects, Part 1. [Knoocker/Knowla](https://knowla.eu/en/)
 Projects that I've finished in my current job. I've programed and designed almost all of them, from start to finish. This is how Knoocker works, where single developer work with a graphic designer, have to create final product from the idea, to relesed game. Every game is created for our own hardware: Knowla Box and Knowla Wall.
 
-## 1. Room Sorter ( :construction_worker:, :computer: )
+## 1. [Room Sorter ( :construction_worker:, :computer: )](https://knowla.eu/en/applications/)
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_1_SS.png) 
-## 2. English Alphabet ( :construction_worker:, :computer: )
+## 2. [English Alphabet ( :construction_worker:, :computer: )](https://knowla.eu/en/applications/)
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_2_SS.png) 
-## 3. Jumper (Normal and English version) ( :construction_worker:, :computer:, :game_die: )
+## 3. [Jumper (Normal and English version) ( :construction_worker:, :computer:, :game_die: )](https://knowla.eu/en/planety/planet-hopsa/)
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_3_SS.png) 
-## 4. Jellyfish ( :construction_worker:, :computer: )
+## 4. [Jellyfish ( :construction_worker:, :computer: )](https://knowla.eu/en/planety/planet-contrast/)
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_4_SS.png) 
-## 5. Labirynth ( :construction_worker:, :computer:, :game_die: )
+## 5. [Labirynth ( :construction_worker:, :computer:, :game_die: )](https://knowla.eu/en/planety/planet-m/)
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_5_SS.png) 
-## 6. Letter Search ( :construction_worker:, :computer:, :game_die: )
+## 6. [Letter Search ( :construction_worker:, :computer:, :game_die: )](https://knowla.eu/en/planety/planet-m/)
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_6_SS.png) 
-## 7. Space Travel ( :construction_worker:, :computer: )
+## 7. [Space Travel ( :construction_worker:, :computer: )](https://knowla.eu/en/planety/planet-smart/)
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_7_SS.png) 
-## 8. Shape Selection ( :construction_worker:, :computer:, :game_die: )
+## 8. [Shape Selection ( :construction_worker:, :computer:, :game_die: )](https://knowla.eu/en/planety/planet-hopsa/)
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_8_SS.png) 
-## 9. Twister ( :construction_worker:, :computer: )
+## 9. [Twister ( :construction_worker:, :computer: )](https://knowla.eu/en/planety/planet-spe/)
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_9_SS.png) 
-## 10. Catcher ( :construction_worker:, :computer:, :game_die: )
+## 10. [Catcher ( :construction_worker:, :computer:, :game_die: )](https://knowla.eu/en/planety/planet-hopsa/)
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_10_SS.png) 
 ## 11. [Ziuu ( :construction_worker:, :computer:, :poultry_leg: )](https://knowla.eu/en/planety/planeta-ziuu/) 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_11_SS.png) 
@@ -47,7 +47,7 @@ Projects that I've finished in my current job. I've programed and designed almos
 ## 13. Voice Controlled games ( NLP :speech_balloon:, :construction_worker:, :computer: )
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_13_SS.png)
 
-# 1. Work Related Projects, Part 2. Poznan University of Economics And Business - VR Lab ( VR :globe_with_meridians:, :dancers:, :computer:, :pencil2:)
+# 1. Work Related Projects, Part 2. [Poznan University of Economics And Business - VR Lab ( VR :globe_with_meridians:, :dancers:, :computer:, :pencil2:)](https://www.youtube.com/watch?v=vJiNcZhQeQE)
 **Description:** My first gamedev related job/internship. I've worked on a project for "Enea Operator" a Polish power industry company. Our team created a VR simulation, where technicians from the ENEA, could train their skills.
 
 **My duties:** 3D modeling and optimizing models for VR, Programming fixes, Testing the VR Software, Helping managing the semantic web database in excel.
@@ -55,7 +55,7 @@ Projects that I've finished in my current job. I've programed and designed almos
 **Tech Stack:** Unity, 3DS Max, Microsoft Excel, Oculus Rift, HTC Vive
 
 
-# 1. Work Related Projects, Part 3, Microtaur ( :dancers:, :computer:, :pencil2:, :game_die: )
+# 1. Work Related Projects, Part 3, [Microtaur ( :dancers:, :computer:, :pencil2:, :game_die: )](https://microtaur.com)
 **Description:** Together with my dear friends Krzysztof Tomala and Wojciech Sosnowski, we've created our own self called studio: Microtaur. We created a few games together, and we've created a few MVP-s for different companies like: **Kinguin** or **JaRock**. Right now we're creating another MVP/Demo for a new client conected to streaming industry.
 
 **Tech Stack:** Godot, GDScript, Roblox, Blender, Aseprite, Unity, C#
