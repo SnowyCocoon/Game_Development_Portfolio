@@ -60,27 +60,25 @@ Is it possible to create a game without any writing and artistic skills, or even
 
 # 3. Game Jams Related Projects
 
-## 0. [Pagan Runer (Gamedev :video_game:, :dancers:, :computer:)](https://adriannowak97.itch.io/foodie-finds-love)
-
 ## 1. [Pagan Runer ( :dancers:, :computer: )](https://gamejolt.com/games/pagan_runner/732468)
 **Description:** Game created for the United With Ukraine Game Jam. Epic adventure 3D platform game/Endless Runner in which you're a Slavic ruler that takes responsibility for his domain and his people.
 
 **Tech stack:** Godot, Dialogic, Gdscript, Aseprite, Gimp
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/3_1_SS.jpg)
-## 2. [Tactical Ghosts (:dancers:, :computer:, :game_die:, :crown: - Top 10%)](https://snowycocoon.itch.io/tactical-ghosts-the-impification)
+## 2. [Tactical Ghosts ( :dancers:, :computer:, :game_die:, :crown: - Top 10% )](https://snowycocoon.itch.io/tactical-ghosts-the-impification)
 **Description:** Game created for the Ludum Dare 50. Try to delay the imp invasion of your majestic ghost empire. Use your brain and reflex to solve short puzzles and fights. The unique combination of chess and fantasy. Great game for both people who have never played chess, and everyone else!
 
 **Tech stack:** Unity, Aseprite, C#
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/3_2_SS.png)
-## 3. [Card Planes (:dancers:, :computer:, :game_die:, :crown: - 1st Place)](https://adnovac.itch.io/card-planes)
+## 3. [Card Planes ( :dancers:, :computer:, :game_die:, :crown: - 1st Place )](https://adnovac.itch.io/card-planes)
 **Description:** Game created for the Godocikowy Dżem #4. A simple but fun Shmup game with local co-op. At the end of each phase, each player can choose up to 1 card from drawn cards. Different cards give you different powers.
 
 **Tech stack:** Godot, Gdscript, Aseprite, Krita
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/3_3_SS.png)
-## 4. [Seeder (:dancers:, :computer:, :game_die:, :pencil2:, :necktie:)](https://snowycocoon.itch.io/seeder)
+## 4. [Seeder ( :dancers:, :computer:, :game_die:, :pencil2:, :necktie: )](https://snowycocoon.itch.io/seeder)
 **Description:** Game made for the #ZostanWDomuRobGry Game Jam 2020. The year is 2147, and Earth, which was once a beautiful planet, now stands abandoned, known as the "dustbin of space." However, not all hope has been lost. A tower defense game.
 
 **Tech stack:** Unity, Aseprite, C#
@@ -88,31 +86,31 @@ Is it possible to create a game without any writing and artistic skills, or even
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/3_4_SS.png)
 # 4. Other Projects, and small demos
 
-## 1. [Peanut Butter Invasion (:construction_worker:, :pencil2:, :game_die:, :computer:)](https://snowycocoon.itch.io/peanut-butter-invasion)
+## 1. [Peanut Butter Invasion ( :construction_worker:, :pencil2:, :game_die:, :computer: )](https://snowycocoon.itch.io/peanut-butter-invasion)
 **Description:** A small project that I've created as a fan work for Vtuber [Froot](https://twitter.com/LichVtuber/status/1341801963202244608). Small shmap game. I've created 95% of the art assets.
 
 **Tech stack:** Aseprite, Godot, GDscript
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_1_SS.png)
-## 2. [Hordeum (:construction_worker:, :pencil2:, :game_die:, :computer:)](https://snowycocoon.itch.io/hordeum)
+## 2. [Hordeum ( :dancers:, :necktie:, :pencil2: :game_die:, :computer: )](https://snowycocoon.itch.io/hordeum)
 **Description:** Game created for our engineering thesis at the university of Adam Mickiewicz in Poznań.
 
 **Tech stack:** Unity, Gimp, C#, Aseprite
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_2_SS.png)
-## 3. [Onryo (:dancers:, :necktie:, :game_die:, :computer:)](https://snowycocoon.itch.io/onryou-pit)
+## 3. [Onryo ( :construction_worker:, :game_die:, :computer:, :pencil2: )](https://snowycocoon.itch.io/onryou-pit)
 **Description:**  Small platformer where you need to go lower, and lower, to reach the end. I've also created all all the art assets for this game.
 
 **Tech stack:** Unity, Aseprite, C#
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_3_SS.png)
-## 4. [Sliding Cars (:construction_worker:, :pencil2:, :game_die:, :computer:)](https://snowycocoon.itch.io/slidingcars)
+## 4. [Sliding Cars ( :construction_worker:, :game_die:, :computer: )](https://snowycocoon.itch.io/slidingcars)
 **Description:**  Basic puzzle game with some stolen arts and photos from google.
 
 **Tech stack:** Unity, C#
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_4_SS.png)
-## 5. [Sneaker Rotate (:construction_worker:, :pencil2:, :game_die:, :computer:)](https://snowycocoon.itch.io/sneaker-rotate)
+## 5. [Sneaker Rotate ( :construction_worker:, :game_die:, :computer: )](https://snowycocoon.itch.io/sneaker-rotate)
 **Description:** Basic puzzle game with some stolen arts and photos from google.
 
 **Tech stack:** Unity, C#
