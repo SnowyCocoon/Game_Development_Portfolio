@@ -60,25 +60,25 @@ Is it possible to create a game without any writing and artistic skills, or even
 
 # 3. Game Jams Related Projects
 
-## 1. [Pagan Runer (:dancers:,:computer:)](https://gamejolt.com/games/pagan_runner/732468)
+## 1. [Pagan Runer (:dancers:, :computer:)](https://gamejolt.com/games/pagan_runner/732468)
 **Description:** Game created for the United With Ukraine Game Jam. Epic adventure 3D platform game/Endless Runner in which you're a Slavic ruler that takes responsibility for his domain and his people.
 
 **Tech stack:** Godot, Dialogic, Gdscript, Aseprite, Gimp
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/3_1_SS.jpg)
-## 2. [Tactical Ghosts (:dancers:,:computer:,:game_die:, :crown: - Top 10%)](https://snowycocoon.itch.io/tactical-ghosts-the-impification)
+## 2. [Tactical Ghosts (:dancers:, :computer:, :game_die:, :crown: - Top 10%)](https://snowycocoon.itch.io/tactical-ghosts-the-impification)
 **Description:** Game created for the Ludum Dare 50. Try to delay the imp invasion of your majestic ghost empire. Use your brain and reflex to solve short puzzles and fights. The unique combination of chess and fantasy. Great game for both people who have never played chess, and everyone else!
 
 **Tech stack:** Unity, Aseprite, C#
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/3_2_SS.png)
-## 3. [Card Planes (:dancers:,:computer:,:game_die:, :crown: - 1st Place)](https://adnovac.itch.io/card-planes)
+## 3. [Card Planes (:dancers:, :computer:, :game_die:, :crown: - 1st Place)](https://adnovac.itch.io/card-planes)
 **Description:** Game created for the Godocikowy Dżem #4. A simple but fun Shmup game with local co-op. At the end of each phase, each player can choose up to 1 card from drawn cards. Different cards give you different powers.
 
 **Tech stack:** Godot, Gdscript, Aseprite, Krita
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/3_3_SS.png)
-## 4. [Seeder (:dancers:,:computer:,:game_die:, :pencil2:, :necktie:)](https://snowycocoon.itch.io/seeder)
+## 4. [Seeder (:dancers:, :computer:, :game_die:, :pencil2:, :necktie:)](https://snowycocoon.itch.io/seeder)
 **Description:** Game made for the #ZostanWDomuRobGry Game Jam 2020. The year is 2147, and Earth, which was once a beautiful planet, now stands abandoned, known as the "dustbin of space." However, not all hope has been lost. A tower defense game.
 
 **Tech stack:** Unity, Aseprite, C#
