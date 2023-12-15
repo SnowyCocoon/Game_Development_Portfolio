@@ -18,21 +18,24 @@ Legend for symbols:
 - :poultry_leg: - Rigging and Bone Animations
 
 # 1. Work Related Projects, Part 1. Knoocker/Knowla
-Projects that I've finished in my current job. I've programed and designed almost all of them, from start to finish. This is how Knoocker works, where single developer work with a graphic designer, have to create final product from the idea, to relesed game.
+Projects that I've finished in my current job. I've programed and designed almost all of them, from start to finish. This is how Knoocker works, where single developer work with a graphic designer, have to create final product from the idea, to relesed game. Every game is created for our own hardware: Knowla Box and Knowla Wall.
 
-## 1. Room Sorter ( :construction_worker: )
-## 2. English Alphabet ( :construction_worker: )
-## 3. Jumper (Normal and English version) ( :construction_worker: )
-## 4. Jellyfish ( :construction_worker: )
-## 5. Labirynth ( :construction_worker: )
-## 6. Letter Search ( :construction_worker: )
-## 7. Space Travel ( :construction_worker: )
-## 8. Shape Selection ( :construction_worker: )
-## 9. Twister ( :construction_worker: )
-## 10. Catcher ( :construction_worker: )
-## 11. Ziuu ( :construction_worker: )
-## 12. PI ( :construction_worker: )
-## 13. Voice Controlled games demos ( :construction_worker: )
+## 1. Room Sorter ( :construction_worker:, :computer: )
+## 2. English Alphabet ( :construction_worker:, :computer: )
+## 3. Jumper (Normal and English version) ( :construction_worker:, :computer:, :game_die: )
+## 4. Jellyfish ( :construction_worker:, :computer: )
+## 5. Labirynth ( :construction_worker:, :computer:, :game_die: )
+## 6. Letter Search ( :construction_worker:, :computer:, :game_die: )
+## 7. Space Travel ( :construction_worker:, :computer: )
+## 8. Shape Selection ( :construction_worker:, :computer:, :game_die: )
+## 9. Twister ( :construction_worker:, :computer: )
+## 10. Catcher ( :construction_worker:, :computer:, :game_die: )
+## 11. [Ziuu ( :construction_worker:, :computer:, :poultry_leg: )](https://knowla.eu/en/planety/planeta-ziuu/) 
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_11_SS.png) 
+## 12. [PI ( :dancers:, :poultry_leg: )](https://knowla.eu/en/planety/planeta-pi/)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_12_SS.png) 
+## 13. Voice Controlled games ( NLP :speech_balloon:, :construction_worker:, :computer: )
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_1_13_SS.png)
 
 # 1. Work Related Projects, Part 2. Poznan University of Economics And Business - VR Lab ( VR :globe_with_meridians:, :dancers:, :computer:, :pencil2:)
 **Description:** My first gamedev related job/internship. I've worked on a project for "Enea Operator" a Polish power industry company. Our team created a VR simulation, where technicians from the ENEA, could train their skills.
@@ -42,7 +45,7 @@ Projects that I've finished in my current job. I've programed and designed almos
 **Tech Stack:** Unity, 3DS Max, Microsoft Excel, Oculus Rift, HTC Vive
 
 
-# 1. Work Related Projects, Part 3, Microtaur
+# 1. Work Related Projects, Part 3, Microtaur ( :dancers:, :computer:, :pencil2:, :game_die: )
 **Description:** Together with my dear friends Krzysztof Tomala and Wojciech Sosnowski, we've created our own self called studio: Microtaur. We created a few games together, and we've created a few MVP-s for different companies like: **Kinguin** or **JaRock**. Right now we're creating another MVP/Demo for a new client conected to streaming industry.
 
 **Tech Stack:** Godot, GDScript, Roblox, Blender, Aseprite, Unity, C#
