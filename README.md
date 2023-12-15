@@ -18,31 +18,39 @@ Legend for symbols:
 - :poultry_leg: - Rigging and Bone Animations
 
 # 1. Work Related Projects, Part 1. Knoocker/Knowla
-Projects that I've finished in my current job. I've programed and designed almost all of them, from start to finish. This is how Knoocker works, where single developer work with a graphic designer to create final product from the idea, to relesed game.
+Projects that I've finished in my current job. I've programed and designed almost all of them, from start to finish. This is how Knoocker works, where single developer work with a graphic designer, have to create final product from the idea, to relesed game.
 
-## 1. Room Sorter
-## 2. English Alphabet
-## 3. Jumper (Normal and English version)
-## 4. Jellyfish
-## 5. Labirynth
-## 6. Letter Search
-## 7. Space Travel
-## 8. Shape Selection
-## 9. Twister
-## 10. Catcher
-## 11. Ziuu
-## 12. PI
-## 13. Voice Controlled games demos
+## 1. Room Sorter ( :construction_worker: )
+## 2. English Alphabet ( :construction_worker: )
+## 3. Jumper (Normal and English version) ( :construction_worker: )
+## 4. Jellyfish ( :construction_worker: )
+## 5. Labirynth ( :construction_worker: )
+## 6. Letter Search ( :construction_worker: )
+## 7. Space Travel ( :construction_worker: )
+## 8. Shape Selection ( :construction_worker: )
+## 9. Twister ( :construction_worker: )
+## 10. Catcher ( :construction_worker: )
+## 11. Ziuu ( :construction_worker: )
+## 12. PI ( :construction_worker: )
+## 13. Voice Controlled games demos ( :construction_worker: )
 
-# 1. Work Related Projects, Part 2. Poznan University of Economics And Business - VR Lab
+# 1. Work Related Projects, Part 2. Poznan University of Economics And Business - VR Lab ( VR :globe_with_meridians:, :dancers:, :computer:, :pencil2:)
 **Description:** My first gamedev related job/internship. I've worked on a project for "Enea Operator" a Polish power industry company. Our team created a VR simulation, where technicians from the ENEA, could train their skills.
+
 **My duties:** 3D modeling and optimizing models for VR, Programming fixes, Testing the VR Software, Helping managing the semantic web database in excel.
+
 **Tech Stack:** Unity, 3DS Max, Microsoft Excel, Oculus Rift, HTC Vive
 
+
 # 1. Work Related Projects, Part 3, Microtaur
-**Description:** Together with my dear friends Krzysztof Tomala and Wojciech Sosnowski, we've created our own self called studio: Microtaur. We created a few games together, and we've created a few MVP-s for different companies like: Kinguin or JaRock. Right now we're creating another MVP for a new client conected to streaming industry.
+**Description:** Together with my dear friends Krzysztof Tomala and Wojciech Sosnowski, we've created our own self called studio: Microtaur. We created a few games together, and we've created a few MVP-s for different companies like: **Kinguin** or **JaRock**. Right now we're creating another MVP/Demo for a new client conected to streaming industry.
+
 **Tech Stack:** Godot, GDScript, Roblox, Blender, Aseprite, Unity, C#
 
+### 1.1. [Twin-Turbo Supercharged Nitro-Fueled Papamobile](https://store.steampowered.com/app/1344800/TwinTurbo_Supercharged_NitroFueled_Papamobile)
+Game created for the Ludum Dare Game jam, but later converted into working steam game.
+
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_3_1_SS.jpg)
 # 2. Science Related Projects
 
 ## 1. [Visual Simulation (Computer Vision :eyes:, :dancers:, :computer:)](https://github.com/SnowyCocoon/Data_Science_Portfolio/tree/master/Computer%20Vision/1.%20Visual%20Simulation)
