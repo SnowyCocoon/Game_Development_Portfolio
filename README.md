@@ -38,7 +38,7 @@ Projects that I've finished in my current job. I've programed and designed almos
 
 **Tech Stack:** Unity, 3DS Max, Microsoft Excel, Oculus Rift, HTC Vive
 
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_2_1_SS.png) 
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_2_SS.png) 
 # 1. Work Related Projects, Part 3, [Microtaur ( :dancers: Team, :computer: Code, :pencil2: Art, :game_die: Design)](https://microtaur.com)
 **Description:** Together with my dear friends Krzysztof Tomala and Wojciech Sosnowski, we've created our own self called studio: Microtaur. We created a few games together, and we've created a few MVP-s for different companies like: **Kinguin** or **JaRock**. Right now we're creating another MVP/Demo for a new client conected to streaming industry.
 
@@ -50,7 +50,7 @@ Game created for the Ludum Dare Game jam, but later converted into working steam
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_3_1_SS.jpg)
 
 ### 1.2. Games connected to Twitch.tv ( :dancers: Team, :computer: Code, :pencil2: Art, :game_die: Design)
-:grey_question: Secret project :grey_question:
+Secret project :grey_question:
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_3_2_SS.png)
 # 2. Science Related Projects
@@ -60,13 +60,13 @@ Game created for the Ludum Dare Game jam, but later converted into working steam
 
 **Tech stack:** Unity Engine, C#, Python, Tensorflow/Keras, OpenCV, Pandas
 
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/2_1_SS.png)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/2_1_SS.png)
 ## 2. [My Masters Thesis and an Article - Voice Controlled Games ( :speech_balloon: NLP, :construction_worker: Team, :computer: Code)](https://annals-csis.org/proceedings/2021/pliks/143.pdf)
 **Description:** because I graduated with a master's degree in computer science with a specialization in artificial intelligence, I wrote my master's thesis about controlling games with a voice in both the Unity engine and Godot engine. before finishing up my master's degree, I also participated in the FedCSIS science conference as a speaker, where I presented my results in the same field. I was able to win the **Best Paper Award** in the Young Researcher Workshop category.  
 
 **Tech stack:** Unity, Godot, C#, Microsoft Azure, Alphacephei Vosk, Windows Speech Recognition API in Unity, LUIS
 
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/2_2_SS.png)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/2_2_SS.png)
 ## 3. [Foodie Finds Love ( :dancers: Team, :computer: Code, :necktie: Management)](https://adriannowak97.itch.io/foodie-finds-love)
 Is it possible to create a game without any writing and artistic skills, or even basic knowledge about the engine, in which you will create a game? That is what we wanted to check with Adrian Nowak and Jan Kaszycki, and that's why we created an almost entirely AI-based game: "Foodie Finds Love".
 
@@ -74,7 +74,7 @@ Is it possible to create a game without any writing and artistic skills, or even
 
 **Tech stack:** RenPy, ChatGPT 4, Stable Diffusion, Eleven Labs, SonicPi, Bark, Python
 
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/2_3_SS.png)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/2_3_SS.png)
 # 3. Game Jams Related Projects
 
 ## 1. [Pagan Runer ( :dancers: Team, :computer: Code)](https://gamejolt.com/games/pagan_runner/732468)
@@ -82,57 +82,33 @@ Is it possible to create a game without any writing and artistic skills, or even
 
 **Tech stack:** Godot, Dialogic, Gdscript, Aseprite, Gimp
 
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/3_1_SS.jpg)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/3_1_SS.jpg)
 ## 2. [Tactical Ghosts ( :dancers: Team, :computer: Code, :game_die: Design, :crown: - Top 10% )](https://snowycocoon.itch.io/tactical-ghosts-the-impification)
 **Description:** Game created for the Ludum Dare 50. Try to delay the imp invasion of your majestic ghost empire. Use your brain and reflex to solve short puzzles and fights. The unique combination of chess and fantasy. Great game for both people who have never played chess, and everyone else!
 
 **Tech stack:** Unity, Aseprite, C#
 
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/3_2_SS.png)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/3_2_SS.png)
 ## 3. [Card Planes ( :dancers: Team, :computer: Code, :game_die: Design, :crown: - 1st Place )](https://adnovac.itch.io/card-planes)
 **Description:** Game created for the Godocikowy Dżem #4. A simple but fun Shmup game with local co-op. At the end of each phase, each player can choose up to 1 card from drawn cards. Different cards give you different powers.
 
 **Tech stack:** Godot, Gdscript, Aseprite, Krita
 
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/3_3_SS.png)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/3_3_SS.png)
 ## 4. [Seeder ( :dancers: Team, :computer: Code, :game_die: Design, :pencil2: Art, :necktie: Management)](https://snowycocoon.itch.io/seeder)
 **Description:** Game made for the #ZostanWDomuRobGry Game Jam 2020. The year is 2147, and Earth, which was once a beautiful planet, now stands abandoned, known as the "dustbin of space." However, not all hope has been lost. A tower defense game.
 
 **Tech stack:** Unity, Aseprite, C#
 
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/3_4_SS.png)
-# 4. Other Projects, and small demos
-
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/3_4_SS.png)
+# 4. Other, old, unfinished and small projects
 ## 1. [Peanut Butter Invasion ( :construction_worker: Solo, :pencil2: Art, :game_die: Design, :computer: Code)](https://snowycocoon.itch.io/peanut-butter-invasion)
 **Description:** A small project that I've created as a fan work for Vtuber [Froot](https://twitter.com/LichVtuber/status/1341801963202244608). Small shmap game. I've created 95% of the art assets.
 
 **Tech stack:** Aseprite, Godot, GDscript
 
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_1_SS.png)
-## 2. [Hordeum ( :dancers: Team, :necktie: Management, :pencil2: Art,:game_die: Design, :computer: Code)](https://snowycocoon.itch.io/hordeum)
-**Description:** Game created for our engineering thesis at the university of Adam Mickiewicz in Poznań.
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/4_1_SS.png)
 
-**Tech stack:** Unity, Gimp, C#, Aseprite
-
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_2_SS.png)
-## 3. [Onryo ( :construction_worker: Solo, :game_die: Design, :computer: Code, :pencil2: Art)](https://snowycocoon.itch.io/onryou-pit)
-**Description:**  Small platformer where you need to go lower, and lower, to reach the end. I've also created all all the art assets for this game.
-
-**Tech stack:** Unity, Aseprite, C#
-
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_3_SS.png)
-## 4. [Sliding Cars ( :dancers: Team, :game_die: Design, :computer: Code)](https://snowycocoon.itch.io/slidingcars)
-**Description:**  Basic puzzle game with some stolen arts and photos from google.
-
-**Tech stack:** Unity, C#
-
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_4_SS.png)
-## 5. [Sneaker Rotate ( :dancers: Team, :game_die: Design, :computer: Code)](https://snowycocoon.itch.io/sneaker-rotate)
-**Description:** Basic puzzle game with some stolen arts and photos from google.
-
-**Tech stack:** Unity, C#
-
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_5_SS.png)
-
+# 4. Check other Old/Unfinished projects here [**CLICK**](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Old.md)
 
 # 5. I've also have some interesting projects here: [Data Science Portfolio](https://github.com/SnowyCocoon/Data_Science_Portfolio)
