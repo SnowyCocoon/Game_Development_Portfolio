@@ -38,16 +38,21 @@ Projects that I've finished in my current job. I've programed and designed almos
 
 **Tech Stack:** Unity, 3DS Max, Microsoft Excel, Oculus Rift, HTC Vive
 
-
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_2_1_SS.png) 
 # 1. Work Related Projects, Part 3, [Microtaur ( :dancers: Team, :computer: Code, :pencil2: Art, :game_die: Design)](https://microtaur.com)
 **Description:** Together with my dear friends Krzysztof Tomala and Wojciech Sosnowski, we've created our own self called studio: Microtaur. We created a few games together, and we've created a few MVP-s for different companies like: **Kinguin** or **JaRock**. Right now we're creating another MVP/Demo for a new client conected to streaming industry.
 
 **Tech Stack:** Godot, GDScript, Roblox, Blender, Aseprite, Unity, C#
 
-### 1.1. [Twin-Turbo Supercharged Nitro-Fueled Papamobile](https://store.steampowered.com/app/1344800/TwinTurbo_Supercharged_NitroFueled_Papamobile)
+### 1.1. [Twin-Turbo Supercharged Nitro-Fueled Papamobile ( :dancers: Team, :computer: Code, :pencil2: Art, :game_die: Design)](https://store.steampowered.com/app/1344800/TwinTurbo_Supercharged_NitroFueled_Papamobile)
 Game created for the Ludum Dare Game jam, but later converted into working steam game. Created in **Godot**
 
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/1_3_1_SS.jpg)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_3_1_SS.jpg)
+
+### 1.2. Games connected to Twitch.tv ( :dancers: Team, :computer: Code, :pencil2: Art, :game_die: Design)
+:grey_question: Secret project :grey_question:
+
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_3_2_SS.png)
 # 2. Science Related Projects
 
 ## 1. [Visual Simulation ( :eyes: Computer Vision, :dancers: Team, :computer: Code)](https://github.com/SnowyCocoon/Data_Science_Portfolio/tree/master/Computer%20Vision/1.%20Visual%20Simulation)
