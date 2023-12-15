@@ -8,6 +8,15 @@ I've divided it to 4 main categories:
 - GameJams related projects
 - Everything else
 
+Legend for symbols:
+- :construction_worker: - Solo work
+- :dancers: - Team project
+- :pencil2: - Some/All graphics in the game made by me
+- :game_die: - Game Design
+- :computer: - Programming
+- :necktie: - Team Management
+- :poultry_leg: - Rigging and Bone Animations
+
 # 1. Work Related Projects, Part 1. Knoocker/Knowla
 Projects that I've finished in my current job. I've programed and designed almost all of them, from start to finish. This is how Knoocker works, where single developer work with a graphic designer to create final product from the idea, to relesed game.
 
@@ -51,49 +60,57 @@ Is it possible to create a game without any writing and artistic skills, or even
 
 # 3. Game Jams Related Projects
 
-## 1. [Pagan Runer (Gamedev :video_game:)](https://gamejolt.com/games/pagan_runner/732468)
-**Description:** Game created for the United With Ukraine Game Jam. Epic adventure platform game in which you're a Slavic ruler that takes responsibility for his domain and his people.  
+## 1. [Pagan Runer (:dancers:,:computer:)](https://gamejolt.com/games/pagan_runner/732468)
+**Description:** Game created for the United With Ukraine Game Jam. Epic adventure platform game in which you're a Slavic ruler that takes responsibility for his domain and his people.
+
 **Tech stack:** Godot, Dialogic, Gdscript, Aseprite, Gimp
 
-## 1. [Tactical Ghosts (Gamedev :video_game:)]([https://gamejolt.com/games/pagan_runner/732468](https://snowycocoon.itch.io/tactical-ghosts-the-impification))
-**Description:** 
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/3_1_SS.jpeg)
+## 2. [Tactical Ghosts (:dancers:,:computer:,:game_die:)]([https://gamejolt.com/games/pagan_runner/732468](https://snowycocoon.itch.io/tactical-ghosts-the-impification))
+**Description:**
+
 **Tech stack:** Unity, Aseprite, C#
 
-## 1. [Card Planes (Gamedev :video_game:)](https://adnovac.itch.io/card-planes)
-**Description:**  
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_1_SS.png)
+## 3. [Card Planes (:dancers:,:computer:,:game_die:, :crown: - 1st Place)](https://adnovac.itch.io/card-planes)
+**Description:** 
+
 **Tech stack:** Godot, Gdscript, Aseprite, Krita
 
-## 1. [Seeder (Gamedev :video_game:)](https://snowycocoon.itch.io/seeder)
-**Description:** 
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_1_SS.png)
+## 4. [Seeder (:dancers:,:computer:,:game_die:)](https://snowycocoon.itch.io/seeder)
+**Description:**
+
 **Tech stack:** Unity, Aseprite, C#
 
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_1_SS.png)
 # 4. Other Projects, and small demos
 
-## 1. [Peanut Butter Invasion ()](https://snowycocoon.itch.io/peanut-butter-invasion)
+## 1. [Peanut Butter Invasion (:construction_worker:, :pencil2:, :game_die:, :computer:)](https://snowycocoon.itch.io/peanut-butter-invasion)
 **Description:** A small project that I've created as a fan work for Vtuber [Froot](https://twitter.com/LichVtuber/status/1341801963202244608). Small shmap game. I've created 95% of the art assets.
 
 **Tech stack:** Aseprite, Godot, GDscript
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_1_SS.png)
-## 2. [Hordeum](https://snowycocoon.itch.io/hordeum)
+## 2. [Hordeum (:construction_worker:, :pencil2:, :game_die:, :computer:)](https://snowycocoon.itch.io/hordeum)
 **Description:** Game created for our engineering thesis at the university of Adam Mickiewicz in Poznań.
 
 **Tech stack:** Unity, Gimp, C#, Aseprite
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_2_SS.png)
-## 3. [Onryo](https://snowycocoon.itch.io/onryou-pit)
+## 3. [Onryo (:dancers:, :necktie:, :game_die:, :computer:)](https://snowycocoon.itch.io/onryou-pit)
 **Description:**  Small platformer where you need to go lower, and lower, to reach the end. I've also created all all the art assets for this game.
 
 **Tech stack:** Unity, Aseprite, C#
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_3_SS.png)
-## 4. [Sliding Cars](https://snowycocoon.itch.io/slidingcars)
+## 4. [Sliding Cars (:construction_worker:, :pencil2:, :game_die:, :computer:)](https://snowycocoon.itch.io/slidingcars)
 **Description:**  Basic puzzle game with some stolen arts and photos from google.
 
 **Tech stack:** Unity, C#
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/4_4_SS.png)
-## 5. [Sneaker Rotate](https://snowycocoon.itch.io/sneaker-rotate)
+## 5. [Sneaker Rotate (:construction_worker:, :pencil2:, :game_die:, :computer:)](https://snowycocoon.itch.io/sneaker-rotate)
 **Description:** Basic puzzle game with some stolen arts and photos from google.
 
 **Tech stack:** Unity, C#
