@@ -50,13 +50,13 @@ Projects that I've finished in my current job. I've programed and designed almos
 
 **Tech stack:** Unity Engine, C#, Python, Tensorflow/Keras, OpenCV, Pandas
 
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/2_1_SS.jpg)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/2_1_SS.png)
 ## 2. [My Masters Thesis and an Article - Voice Controlled Games (NLP :speech_balloon:, :construction_worker:, :computer: )](https://annals-csis.org/proceedings/2021/pliks/143.pdf)
 **Description:** because I graduated with a master's degree in computer science with a specialization in artificial intelligence, I wrote my master's thesis about controlling games with a voice in both the Unity engine and Godot engine. before finishing up my master's degree, I also participated in the FedCSIS science conference as a speaker, where I presented my results in the same field. I was able to win the **Best Paper Award** in the Young Researcher Workshop category.  
 
 **Tech stack:** Unity, Godot, C#, Microsoft Azure, Alphacephei Vosk, Windows Speech Recognition API in Unity, LUIS
 
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/2_2_SS.jpg)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/2_2_SS.png)
 ## 3. [Foodie Finds Love ( :dancers:, :computer:, :necktie:)](https://adriannowak97.itch.io/foodie-finds-love)
 Is it possible to create a game without any writing and artistic skills, or even basic knowledge about the engine, in which you will create a game? That is what we wanted to check with Adrian Nowak and Jan Kaszycki, and that's why we created an almost entirely AI-based game: "Foodie Finds Love".
 
@@ -64,7 +64,7 @@ Is it possible to create a game without any writing and artistic skills, or even
 
 **Tech stack:** RenPy, ChatGPT 4, Stable Diffusion, Eleven Labs, SonicPi, Bark, Python
 
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/2_3_SS.jpg)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/2_3_SS.png)
 # 3. Game Jams Related Projects
 
 ## 1. [Pagan Runer ( :dancers:, :computer: )](https://gamejolt.com/games/pagan_runner/732468)
