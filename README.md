@@ -1,6 +1,6 @@
 # Game Development Portfolio (Dominik Strzałko)
 
-Hi, my name is Dominik aka. Kokon, and this is my project portfolio. I work mainly in **Unity** and **Godot**, but I'm not scared of UE4, RenPy, or even Roblox Studio. I'm a fast learner, and I even have some background in Data Science/AI.
+Hi, my name is Dominik aka. Kokon, and this is my project portfolio. I work mainly in **Unity** and **Godot**, but I'm not scared of UE5, RenPy, or even Roblox Studio. I'm a fast learner, and I even have some background in Data Science/AI.
 
 To see my CV, send me a mail at dominikstrzalko@gmail.com
 
@@ -26,9 +26,9 @@ Projects that I've finished in my current job. I've programed and designed almos
 
 **Tech Stack:** Unity, Blender, Aseprite, C#
 
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_1_1_SS.png) 
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/N_SS_3.png) 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_1_3_SS.png) 
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_1_8_SS.png) 
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/N_SS_4.png) 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_1_11_SS.png) 
 
 # 1. Work Related Projects, Part 2. [Poznan University of Economics And Business - VR Lab ( :globe_with_meridians: VR, :dancers: Team, :computer: Code, :pencil2: Art)](https://www.youtube.com/watch?v=vJiNcZhQeQE)
@@ -39,20 +39,15 @@ Projects that I've finished in my current job. I've programed and designed almos
 **Tech Stack:** Unity, 3DS Max, Microsoft Excel, Oculus Rift, HTC Vive
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_2_SS.png) 
-# 1. Work Related Projects, Part 3, [Microtaur ( :dancers: Team, :computer: Code, :pencil2: Art, :game_die: Design)](https://microtaur.com)
-**Description:** Together with my dear friends Krzysztof Tomala and Wojciech Sosnowski, we've founded our own self called studio: Microtaur. We created a few games together, and we've created a few MVP-s for different companies like: **Kinguin** or **JaRock**. Right now we're creating another MVP/Demo for a new client conected to streaming industry.
+# 1. Work Related Projects, Part 3, [Intermission Games ( :dancers: Team, :computer: Code, :pencil2: Art, :game_die: Design)](https://microtaur.com)
+**Description:** Together with my dear friend Weil, we've founded our own self called studio: Intermission Games. We're creating regular games, and marketing games for the streaming industry. Our last client was **PEPSICO**, to whom we created a game about dealing with a cat by streaming viewers.
 
-**Tech Stack:** Godot, GDScript, Roblox, Blender, Aseprite, Unity, C#
-
-### 1.1. [Twin-Turbo Supercharged Nitro-Fueled Papamobile ( :dancers: Team, :computer: Code, :pencil2: Art, :game_die: Design)](https://store.steampowered.com/app/1344800/TwinTurbo_Supercharged_NitroFueled_Papamobile)
-Game created for the Ludum Dare Game jam, but later converted into working steam game. Created in **Godot**
-
-![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_3_1_SS.jpg)
-
-### 1.2. Games connected to Twitch.tv ( :dancers: Team, :computer: Code, :pencil2: Art, :game_die: Design)
-Secret project :grey_question:
+**Tech Stack:** Godot, GDScript, Blender, Aseprite
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_3_2_SS.png)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/IG_1.png) 
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/IG_2.png) 
+
 # 2. Science Related Projects
 
 ## 1. [Visual Simulation ( :eyes: Computer Vision, :dancers: Team, :computer: Code)](https://github.com/SnowyCocoon/Data_Science_Portfolio/tree/master/Computer%20Vision/1.%20Visual%20Simulation)
@@ -101,6 +96,15 @@ Is it possible to create a game without any writing and artistic skills, or even
 **Tech stack:** Unity, Aseprite, C#
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/3_4_SS.png)
+
+### 5. [Twin-Turbo Supercharged Nitro-Fueled Papamobile ( :dancers: Team, :computer: Code, :pencil2: Art, :game_die: Design)](https://store.steampowered.com/app/1344800/TwinTurbo_Supercharged_NitroFueled_Papamobile)
+Game created for the Ludum Dare Game jam, but later converted into working steam game.
+
+**Tech stack:** Godot, GDscript, Blender
+
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_3_1_SS.jpg)
+
+
 # 4. Other, old, unfinished and small projects
 ## 1. [Peanut Butter Invasion ( :construction_worker: Solo, :pencil2: Art, :game_die: Design, :computer: Code)](https://snowycocoon.itch.io/peanut-butter-invasion)
 **Description:** A small project that I've created as a fan work for Vtuber [Froot](https://twitter.com/LichVtuber/status/1341801963202244608). Small shmap game. I've created 95% of the art assets.
