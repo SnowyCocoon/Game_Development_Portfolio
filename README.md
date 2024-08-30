@@ -150,6 +150,12 @@ Game created for the Ludum Dare Game jam, but later converted into working steam
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_3_1_SS.jpg)
 
+### 6. [Dress up your knight ( :dancers: Team, :globe_with_meridians: VR, :computer: Code, :game_die: Design)](https://store.steampowered.com/app/1344800/TwinTurbo_Supercharged_NitroFueled_Papamobile)
+Game created for the XR Game Jam 2024. VR game about dressing up your knight to a fight, as his loyal squire.
+
+**Tech stack:** Unity, Blender, C#
+
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/GJ_1.png)
 
 # 5. Other, old, unfinished and small projects
 ## 1. [Peanut Butter Invasion ( :construction_worker: Solo, :pencil2: Art, :game_die: Design, :computer: Code)](https://snowycocoon.itch.io/peanut-butter-invasion)
