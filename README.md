@@ -4,9 +4,10 @@ Hi, my name is Dominik aka. Kokon, and this is my project portfolio. I work main
 
 To see my CV, send me a mail at dominikstrzalko@gmail.com
 
-I've divided this portfolio into 4 main categories:
+I've divided this portfolio into 5 main categories:
 - Work related projets (3 Parts)
 - Science related projects
+- Technical Art projects
 - GameJams related projects
 - Everything else
 
@@ -70,7 +71,52 @@ Is it possible to create a game without any writing and artistic skills, or even
 **Tech stack:** RenPy, ChatGPT 4, Stable Diffusion, Eleven Labs, SonicPi, Bark, Python
 
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/2_3_SS.png)
-# 3. Game Jams Related Projects
+
+# 3. Technical Art Projects
+
+## 1. [Night Alley - UE5 Scene Render ( :pencil2: Art, :computer: Code)](https://www.artstation.com/artwork/Gey01d)
+**Description:** My first proper scene render in Unreal Engine 5. 
+
+Skills Showcased:
+- Level Design
+- Lightning the Scene
+- Creating Emissive Materials
+- Material Blending, Vertex Painting, and puddles (Walls, Road, Sidewalks)
+- Using Decals
+- Filling the scene with static Meshes
+- Using the Foliage Tool
+- Creating the video clips by the UE5 Sequencer
+- Editing the video using DaVinci Resolve
+
+**Tech stack:** UE5, Davinci Resolve, Quixel
+
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/TA_1.jpg)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/TA_2.jpg)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/TA_3.jpg)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/TA_4.jpg)
+
+## 1. [Spring Hills - UE5 Landscape ( :pencil2: Art, :computer: Code)](https://www.artstation.com/artwork/WBWOov)
+**Description:** My first Landscape generated in Unreal Engine 5.
+
+Skills Showcased:
+- Level Design
+- Creating Landscape in Gaea
+- Lightning the Scene
+- Using and creating the Auto Landscape Materials
+- Creating my own Material Functions (Texture Bombing, Macro/Micro Variations, Texture Blends, and many more)
+- Virtual Texture usage and optimizing the scene
+- Filling the scene with static Meshes
+- Creating automated Foliage
+- Creating the video clips by the UE5 Sequencer
+
+**Tech stack:** UE5, Gaea, Davinci Resolve, Quixel
+
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/TA_5.jpg)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/TA_6.jpg)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/TA_7.jpg)
+![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/TA_8.jpg)
+
+# 4. Game Jams Related Projects
 
 ## 1. [Pagan Runer ( :dancers: Team, :computer: Code)](https://gamejolt.com/games/pagan_runner/732468)
 **Description:** Game created for the United With Ukraine Game Jam. Epic adventure 3D platform game/Endless Runner in which you're a Slavic ruler that takes responsibility for his domain and his people.
@@ -105,7 +151,7 @@ Game created for the Ludum Dare Game jam, but later converted into working steam
 ![image](https://github.com/SnowyCocoon/Game_Development_Portfolio/blob/main/Images/1_3_1_SS.jpg)
 
 
-# 4. Other, old, unfinished and small projects
+# 5. Other, old, unfinished and small projects
 ## 1. [Peanut Butter Invasion ( :construction_worker: Solo, :pencil2: Art, :game_die: Design, :computer: Code)](https://snowycocoon.itch.io/peanut-butter-invasion)
 **Description:** A small project that I've created as a fan work for Vtuber [Froot](https://twitter.com/LichVtuber/status/1341801963202244608). Small shmap game. I've created 95% of the art assets.
 
